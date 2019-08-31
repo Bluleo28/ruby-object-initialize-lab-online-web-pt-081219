@@ -1,8 +1,5 @@
 class Dog 
   
-def name(dogs_name)
-    name =(this_dogs_name)
+def name = Dog.new 
   end 
-end 
-  
   
