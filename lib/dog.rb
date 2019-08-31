@@ -1,5 +1,4 @@
 class Dog 
-  
-def name = Dog.new 
+  name = Dog.new 
   end 
   
