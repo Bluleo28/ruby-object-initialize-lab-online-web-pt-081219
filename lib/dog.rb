@@ -1,6 +1,6 @@
 class Dog 
 
-def name=(new)
+def name(new)
 @name = name 
 end 
  
